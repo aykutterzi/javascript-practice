@@ -1,2 +1,2 @@
 # javascript-practice
-Implementing simple functions
+Some function implementations
